@@ -1,0 +1,14 @@
+@media (max-width:680px){
+    header{
+        width: 92%;
+    }
+    .haeder_nav{
+        display: none;
+    }
+    .header_button{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+    }
+}
