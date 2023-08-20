@@ -12,3 +12,12 @@
         display: block;
     }
 }
+@media (max-width:500px){
+    .tabletS_txt{
+        display: none;
+    }
+    .section1_cover{
+        width: 100%;
+    height: 309px;
+      }
+}

@@ -1,0 +1,26 @@
+@media (max-width:1050px){
+    .section_1{
+        width: 100%;
+        padding: 3%;
+        flex-direction: column;
+        gap: 68px;
+    }
+    .section1_text{
+       width: 100%;
+       align-items: center;
+       text-align: center;
+       margin: auto;
+        
+    }
+      .section1_cover_div{
+        width: 100%;
+        
+      }
+      .section1_cover{
+        width: 100%;
+    height: 450px;
+      }
+      
+    
+
+} 
