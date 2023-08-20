@@ -1,4 +1,5 @@
 @media (max-width:1050px){
+   /* section1 */
     .section_1{
         width: 100%;
         padding: 3%;
@@ -20,7 +21,37 @@
         width: 100%;
     height: 450px;
       }
-      
-    
+      /* section2 */
+      .section_2{
+        padding: 3% 3% 6% 3%;
+      }
+      .section2_maindiv{
+        flex-direction: column;
+      }
 
+    .section_2_cover{
+        width: 100%;
+        
+    }
+.section_2_cover_pic{
+    height: 550px;
+}
+.section2_text_div{
+    width: 100%;
+    margin-top: 64px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    gap:129px
+    
+    
+}
+.section_2_title{
+    margin-top: 0;
+}
+/* section3 */
+.section_3{
+    width: 100%;
+    padding: 39px 32px;
+}
 } 

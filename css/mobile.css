@@ -21,3 +21,21 @@
     height: 309px;
       }
 }
+/* section2 */
+
+@media (max-width:560px){
+    .section_2_cover_pic{
+        
+        height: 195px;
+    }
+    .section2_text_div{
+          gap: 14px;
+        
+      }
+      .smalltxt1{
+        margin: 14px 0 ;
+    }
+      .section2_smalltxt_div{
+        gap: 2px;
+      }
+}
